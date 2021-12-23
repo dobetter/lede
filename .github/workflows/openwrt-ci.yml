@@ -9,7 +9,7 @@ name: OpenWrt-CI
 
 on:
   schedule:
-    - cron: 15 04 * * *
+    - cron: 30 04 * * *
   release:
     types: [published]
 
